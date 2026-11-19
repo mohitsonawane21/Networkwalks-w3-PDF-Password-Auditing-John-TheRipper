@@ -179,12 +179,7 @@ For a concise item-by-item record, see [Evidence Register](docs/EVIDENCE.md). Fo
 │   └── 08-networkwalks-flag-achievement.jpg
 ├── scripts/
 │   └── validate_repo.py
-├── .gitignore
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── FOLDER-STRUCTURE.md
 ├── README.md
-└── SECURITY.md
 ```
 
 ## Repository quality checks
@@ -231,7 +226,7 @@ See [`references/SOURCES.md`](references/SOURCES.md) for the reference list and 
 <div align="center">
 
 **Documented by Mohit Dinesh Sonawane**  
-Computer Engineering · SIEM · 19 November 2026
+
 
 *Built as a learning record. Used responsibly.*
 
